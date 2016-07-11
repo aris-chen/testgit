@@ -1,0 +1,2 @@
+license file:
+this is a license file for test.
