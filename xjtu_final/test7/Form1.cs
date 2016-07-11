@@ -68,7 +68,7 @@ namespace Test7
         private void chart1_Click(object sender, EventArgs e)
         {
             //just for test
-            Tinside = textBox1.Text;
+
         }
 
         private void Form1_Load(object sender, EventArgs e)
