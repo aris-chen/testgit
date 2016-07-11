@@ -1,4 +1,0 @@
-license file:
-this is a license file for test.
-just for test
-second test 
