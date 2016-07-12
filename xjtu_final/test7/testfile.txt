@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 test file
+=======
+test file
+for push test 
+second test 
+>>>>>>> dev
