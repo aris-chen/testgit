@@ -71,7 +71,6 @@ namespace Test7
 
             //where is the second test line?
             Tinside = textBox1.Text;
-            //Tinside = textBox1.Text;
 
 
         }
