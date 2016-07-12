@@ -68,8 +68,11 @@ namespace Test7
         private void chart1_Click(object sender, EventArgs e)
         {
             //just for test
+
             //where is the second test line?
             Tinside = textBox1.Text;
+            //Tinside = textBox1.Text;
+
 
         }
 
